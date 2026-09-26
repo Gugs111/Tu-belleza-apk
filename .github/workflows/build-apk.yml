@@ -1,12 +1,12 @@
 {
   "name": "Tu Belleza",
   "short_name": "TuBelleza",
-  "description": "App de inventario y gestión para Tu Belleza",
-  "start_url": "/Tu-belleza-apk/",
+  "description": "App de Tu Belleza",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#d4af37",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",
@@ -20,4 +20,3 @@
     }
   ]
 }
-
